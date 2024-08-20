@@ -1,2 +1,2 @@
 <h1> encriptador-alura</h1>
-- revision de la funcionalidad del proyecto
+- Encriptador de texto en el cual se demostrara conocimientos de javascript y css, adicional al correcto funcionamiento y performance de la pagina 
